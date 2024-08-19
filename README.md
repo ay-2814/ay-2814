@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact **Have studied/worked in 11 countries across 5 continetns**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ayushman28/</h3>
 <p align="left">
 </p>
 
