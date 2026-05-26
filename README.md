@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
-<h3 align="center">I’m interested in being an ethical Machine Learning Engineer and/or Data scientist</h3>
+<h3 align="center">I’m an ethical Machine Learning Engineer and/or Data scientist</h3>
 
 - ⚡ Fun fact **I Have studied/worked in 11 countries across 5 continetns**
 
